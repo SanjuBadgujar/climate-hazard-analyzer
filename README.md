@@ -106,6 +106,6 @@ so the series is homogeneous (no blending of different models over time).
 - Frontend tests and an e2e smoke test.
 
 ## AI tools used and how
-> Replace with your honest account before submitting, e.g.:
+
 > - Claude: drafted the architecture, the detection/trend functions and the tests; I reviewed every function,
 >   ran the tests, and can explain and modify each part.
