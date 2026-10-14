@@ -1,0 +1,14 @@
+node_modules/
+dist/
+__pycache__/
+.venv/
+# Environment secrets
+.env
+.env.*
+.pytest_cache/
+# Local test output
+pune_all.json
+pune_40.json
+# Frontend
+node_modules/
+frontend/dist/
